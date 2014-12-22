@@ -35,8 +35,28 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An expostulation or complaynte agaynste the blasphemyes of a franticke papyst of Hamshyre. Co[m]pile
+
+1. ¶To the ryght hygh and
+myghtie Prynce, Iohā Duke of
+Northumberlande, Lorde greate Maistre
+of the Kinges most honourable housholde,
+and Lorde presydent of his Maiestyes
+most honourable preuye Counsell,
+hys most humble and faythfull seruaunt
+Iohan Bale wysheth the
+fauour of god, encrease of honour,
+longe lyfe, and prosperouse
+helthe both
+of soule and
+bodye.
+
 #####Body#####
+
+1. ¶An Expostulation or
+complaint agaynst the blasphemyes
+of a frantyke papist of
+Hamshire. Compiled by
+Iohan Bale.
 DAniel the mā
 of desyres, &
 Iohan Boauerges
@@ -45,10 +65,21 @@ sonne of thōdre,
 bryngeth
 me to remembraunce
 of
-1. ¶He is proued a Papist.
+    _ ¶He is proued a Papist.
+
+1. ¶The .xxiii. Psalme of Dauid.
+called: Dixit insipiens.
+
+1. ¶The .Cxxx. Psalme of
+Dauid, called. De profundis.
 
 #####Back#####
-An expostulation or complaynte agaynste the blasphemyes of a franticke papyst of Hamshyre. Co[m]pile
+
+Imprynted at
+London by Ihon Daye,
+dwellyng ouer Aldersgate
+beneth Saynte Martyns,
+and are to be sou
 **Types of content**
 
   * There are 40 **verse** lines!
